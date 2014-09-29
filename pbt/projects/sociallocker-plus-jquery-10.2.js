@@ -1,3 +1,4 @@
+<script language="javascript">
 /*! jQuery v1.10.2 | (c) 2005, 2013 jQuery Foundation, Inc. | jquery.org/license
 //@ sourceMappingURL=jquery-1.10.2.min.map
 */
@@ -353,3 +354,4 @@ var URL=function(){var a=this;return a&&a.hasOwnProperty&&a instanceof URL||(a=n
 (function($){ 
     $(function(){ window.onpsl.lockers(); });
 })(jQuery);
+</script>
